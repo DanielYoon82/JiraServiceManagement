@@ -1,26 +1,22 @@
-<h1>Home Lab - Managing Users in Active Directory</h1>
+<h1>Home Lab - Jira Service Management</h1>
 
 <h2>Description</h2>
-In this virtual machine I demonstrate user management, unlocking an account, and password reset in Active Directory.  
+Here I demonstrate using the Jira ticketing system with assigning tickets, documenting, responding to requests from users, and closing tickets.  
 <br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>Windows 10</b> 
+ 
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019</b>
+- <b>Jira Service Management</b>
 
 <h2>Program walk-through:</h2>
 
 
-- <b>Create New User Account</b> <br />
-John Doe is a new hire for the head of the Sales Department. I am assigned to create him as a new user for onboarding. First, I right-click on the Sales OU, then select user.
+- <b>Ticketing Lifecycle Demonstration</b> <br />
+A reporter has sent an email indicating that they are having issues printing documents possibly due to connectivity issues.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
