@@ -20,17 +20,17 @@ A reporter has sent an email indicating that they are having issues printing doc
 </p>
 <br /> 
 
-I proceed with inputting his name and logon name (according to policies for this simulated company). <br />
+After resolving the issue a note is documented as an internal note confirming the issue has been resolved. Status of the ticket was then set to closed. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
+Thereafter, a direct email to the user is sent letting them know that printing is now functional. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
