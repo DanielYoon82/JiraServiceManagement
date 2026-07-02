@@ -20,14 +20,14 @@ A user has sent an email indicating that they are having issues printing documen
 </p>
 <br /> 
 
-After resolving the issue, it is then documented internally confirming the issue has been resolved. Status of the ticket was then set to closed. <br />
+After resolving the issue, it is then documented internally confirming the issue has been resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Thereafter, an email is sent to the user letting them know that printing is now up and running. <br />
+Thereafter, an email is sent to the user letting them know that printing is now up and running. The status is then set to closed. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
