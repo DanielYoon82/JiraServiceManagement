@@ -13,10 +13,10 @@ Here I demonstrate using the Jira ticketing system with assigning tickets, docum
 
 
 - <b>Ticketing Lifecycle Demonstration</b> <br />
-A user has sent an email indicating that they are having issues printing documents possibly due to connectivity issues.
+A user has sent an email indicating that they are having issues printing documents possibly due to connectivity issues. Status has been changed and internally documented.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab1.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab9.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
