@@ -16,7 +16,7 @@ Here I demonstrate using the Jira ticketing system with assigning tickets, docum
 A user has sent an email indicating that they are having issues printing documents possibly due to connectivity issues. Status has been changed and internally documented.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab9.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
@@ -27,10 +27,17 @@ After resolving the issue, it is then documented internally confirming the issue
 </p>
 <br />
 
-Thereafter, an email is sent to the user letting them know that printing is now up and running. The status is then set to closed. <br />
+Thereafter, status has been changed to resolved. User will then be notified that printer is now up and running. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+Finally, user is then notified printer issue has been resolved. Ticket status was then changed to closed. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
