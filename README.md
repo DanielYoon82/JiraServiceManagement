@@ -72,6 +72,6 @@ Finally, the user has been advised account has been successfully unlocked and pa
 
 
 - <b>Summary</b> <br />
-I demonstrated using Windows Active Directory with modeling a VM in creating, configuring, deleting, and disabling user accounts. In addition, unlocking and resetting a password was carried out using real-world scenarios. These common tasks are vital to user management protocol and done offhand frequently. 
+I demonstrated Jira Service Management using common scenarios of ticket issue resolution. Two scenarios, one as promptly resolving an issue involving printing issues. Another, involving more time and progress with user lock out completing both requests. 
 <br />
 <br />
