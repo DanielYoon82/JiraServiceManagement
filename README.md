@@ -38,22 +38,22 @@ Notified the user that printing functionality had been restored and closed the t
 </p>
 <br />
 
-- <b>New Service Request</b> <br/>
-A user has sent a message indicating they have locked themselves out of their computer due to too many attempts to log in.  <br />
+- <b>Service Request – Account Lockout and Password Reset</b> <br/>
+A user is locked out of their Windows account after multiple unsuccessful login attempts.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-The ticket status has been changed to "In Progress" and documented. <br />
+Updated the ticket status to In Progress and documented troubleshooting activities using internal notes. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-After resolving the lock out issue, an internal note and changing status to resolve the issue was documented.  <br />
+Unlocked the user's account, .  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab7.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
