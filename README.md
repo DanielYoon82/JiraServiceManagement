@@ -20,21 +20,21 @@ A user reports being unable to print documents due to a suspected printer connec
 </p>
 <br /> 
 
-Resolved the printer connectivity issue and updated the ticket as resolved. <br />
+Verified the printer was online and reachable on the network, confirmed the print queue was clear, restarted the Print Spooler service, tested printing from the affected workstation, and verified successful communication with the network printer before closing the ticket.. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab11.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 Notified the user that printing functionality had been restored and closed the ticket after confirming the issue was resolved. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab12.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -42,28 +42,28 @@ Notified the user that printing functionality had been restored and closed the t
 A user is locked out of their Windows account after multiple unsuccessful login attempts.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab5.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab5.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 Updated the ticket status to In Progress and documented troubleshooting activities using internal notes. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab6.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab6.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 Unlocked the user's account, reset the user's password, updated the ticket with the actions performed, and changed the ticket status to Resolved.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab7.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab7.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 Informed the user that access had been restored and advised them to create a new password upon login. Closed the ticket after successful completion.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab8.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab8.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
