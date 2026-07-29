@@ -31,7 +31,7 @@ Resolved the printer connectivity issue and updated the ticket as resolved. <br 
 </p>
 <br />
 
-Notified the user that printing functionality had been restored and close the ticket after confirming the issue was resolved. <br />
+Notified the user that printing functionality had been restored and closed the ticket after confirming the issue was resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
