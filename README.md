@@ -20,14 +20,11 @@ A user reports being unable to print documents due to a suspected printer connec
 </p>
 <br /> 
 
-Resolved the printer connectivity issue and updated the ticket with the resolution. <br />
+Resolved the printer connectivity issue and updated the ticket as resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
-Changed the ticket status to Resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
