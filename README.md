@@ -16,7 +16,7 @@ This home lab demonstrates the ticket lifecycle using Jira Service Management. T
 A user reports being unable to print documents due to a suspected printer connectivity issue. I review the support request submitted through Jira Service Management. Updated the ticket status to In Progress and documented troubleshooting steps using internal notes.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab10.jpg" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab10.jpg" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
