@@ -60,7 +60,7 @@ Unlocked the user's account, reset the user's password, updated the ticket with 
 </p>
 <br />
 
-Finally, the user has been advised account has been successfully unlocked and password has been reset. Ticket was then changed to closed status thus completing the task.  <br />
+Informed the user that access had been restored and advised them to create a new password upon login. Closed the ticket after successful completion.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab8.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
