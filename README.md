@@ -53,7 +53,7 @@ Updated the ticket status to In Progress and documented troubleshooting activiti
 </p>
 <br />
 
-Unlocked the user's account, .  <br />
+Unlocked the user's account, reset the user's password, updated the ticket with the actions performed, and changed the ticket status to Resolved.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab7.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
