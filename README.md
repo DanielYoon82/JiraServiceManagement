@@ -1,7 +1,7 @@
 <h1>Home Lab - Jira Service Management</h1>
 
 <h2>Description</h2>
-Here I demonstrate using the Jira ticketing system with assigning tickets, documenting, responding to requests from users, and closing tickets.  
+This home lab demonstrates the ticket lifecycle using Jira Service Management. The project simulates common IT Help Desk scenarios, including incident management, user communication, ticket documentation, issue resolution, and ticket closure following standard support workflows.  
 <br />
  
 
@@ -12,29 +12,29 @@ Here I demonstrate using the Jira ticketing system with assigning tickets, docum
 <h2>Program walk-through:</h2>
 
 
-- <b>Ticketing Lifecycle Demonstration</b> <br />
-A user has sent an email indicating that they are having issues printing documents possibly due to connectivity issues. Status has been changed and internally documented.
+- <b>Incident Management – Printer Connectivity Issue</b> <br />
+A user reports being unable to print documents due to a suspected printer connectivity issue. I review the support request submitted through Jira Service Management. Updated the ticket status to In Progress and documented troubleshooting steps using internal notes.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab10.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
-After resolving the issue, it is then documented internally confirming the issue has been resolved. <br />
+Resolved the printer connectivity issue and updated the ticket with the resolution. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Thereafter, status has been changed to resolved. User will then be notified that printer is now up and running. <br />
+Changed the ticket status to Resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab11.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-Finally, user is then notified printer issue has been resolved. Ticket status was then changed to closed. <br />
+Notified the user that printing functionality had been restored and close the ticket after confirming the issue was resolved. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLab12.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
