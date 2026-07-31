@@ -1,7 +1,7 @@
-<h1>Home Lab - Jira Service Management</h1>
+<h1>Jira Service Management | IT Help Desk Ticket Lifecycle Lab</h1>
 
 <h2>Description</h2>
-This home lab demonstrates the ticket lifecycle using Jira Service Management. The project simulates common IT Help Desk scenarios, including incident management, user communication, ticket documentation, issue resolution, and ticket closure following standard support workflows.  
+This home lab demonstrates the complete IT support ticket lifecycle using **Jira Service Management**. The project simulates real-world Help Desk scenarios involving incident management, user communication, technical troubleshooting, documentation, issue resolution, and ticket closure while following standard IT support workflows.  
 <br />
  
 
