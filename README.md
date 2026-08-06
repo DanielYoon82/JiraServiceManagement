@@ -34,8 +34,7 @@ Jira Service Management
 <br />
 
 <br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLabWorkflow.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/JiraServiceManagement/blob/main/image/JiraLabWorkflow.jpg" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
