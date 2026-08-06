@@ -122,6 +122,7 @@ A user is locked out of their Windows account after multiple unsuccessful login 
 
 
 <h3>Ticket Lifecycle Demonstrated </h3>
+
 1. User submits a request
 2. Ticket is reviewed and prioritized
 3. Ticket status changes to In Progress
@@ -134,6 +135,7 @@ A user is locked out of their Windows account after multiple unsuccessful login 
 10. Ticket is closed
 
 <h3>Ticket Lifecycle Demonstrated </h3>
+
 - Ticket triage
 - Incident management
 - Service request management
